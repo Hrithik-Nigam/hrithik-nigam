@@ -38,7 +38,7 @@ I envision a future where technology enriches lives, solves complex challenges, 
 
 **🌐 How to reach me::**
 - 📫 **Email:** hrithikn27@gmail.com
-- 🔗 **LinkedIn:** (https://www.linkedin.com/in/hrithik-nigam-668166205/)
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/hrithik-nigam-668166205/
 
 
 Let's code the future together! 🌟✨
